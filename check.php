@@ -35,7 +35,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <title>入力内容確認</title>
+  <title>入力内容を確認します</title>
   <meta charset="utf-8">
 </head>
 <body>
